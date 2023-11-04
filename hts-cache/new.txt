@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:15:58	315/315	---M--	404	error ('Not%20Found')	text/html	date:Sat,%2004%20Nov%202023%2016:15:55%20GMT	https://tstf.vip/robots.txt		(from )
+17:15:58	9107/9107	---M-Z	200	added ('OK')	text/html	date:Sat,%2004%20Nov%202023%2016:15:55%20GMT	https://tstf.vip/	C:/My%20Web%20Sites/Test/tstf.vip/index.html	(from )
+17:15:58	16430/16430	---M-Z	200	added ('OK')	text/css	etag:%22205c6e-402e-5ff68d48597e4-gzip%22	https://tstf.vip/assets/dist/css/theme.min.css	C:/My%20Web%20Sites/Test/tstf.vip/assets/dist/css/theme.min.css	(from https://tstf.vip/)
+17:15:59	10533/10533	---M--	200	added ('OK')	image/svg+xml	etag:%22205b94-2925-5feac09b15580%22	https://tstf.vip/assets/img/logo-fiat-tp.svg	C:/My%20Web%20Sites/Test/tstf.vip/assets/img/logo-fiat-tp.svg	(from https://tstf.vip/)
